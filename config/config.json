@@ -1,0 +1,6 @@
+{
+  "discordToken": "${DISCORD_TOKEN}",
+  "prefix": "$",
+  "logLevel": "info",
+  "adminIds": ["123456789012345678"]
+}

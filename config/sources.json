@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "id": "ultrajb-reddit",
+      "type": "reddit",
+      "targetWebhookId": "default",
+      "options": { "subreddit": "ultrajb" },
+      "pollInterval": "*/5 * * * *"
+    }
+  ]
+}
